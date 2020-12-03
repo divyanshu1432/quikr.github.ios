@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+nav .navbar-brand img{
+
+	width: 9rem;
+	height: 4rem;
+	object-fit: cover;
+	border-radius: 50px;
+
+}
+
+
+   
+
